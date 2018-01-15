@@ -1,2 +1,2 @@
 # newGitTest
-Tutorial 2 For Mac
+Tutorial 2 For Mac Just for Testing Purposes
